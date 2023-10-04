@@ -656,7 +656,7 @@
     "chatTips": {
       "template": "PORADA: {CONTENT}",
       "tips": {
-        "backupReminder": "Rekomendujemy częste pobieranie swoich zapisów. W ten sposób, jeżeli wyczyścisz dane przegładarki nie stracisz swoich danych.",
+        "backupReminder": "Polecamy częste pobieranie swoich zapisów. W ten sposób, jeżeli wyczyścisz dane przegładarki nie stracisz swoich danych.",
         "menuTheme": "Kolor twojej nazwy i styl na liście graczy zależy od wybranego w grze motywu.",
         "playersInMap": "Możesz zmienić to, czy widzisz ile osób jest online czy ile osób jest w tej samej mapie co ty klikając na tekst obok liczby.",
         "markdownSupport": "Czat wspiera formatowanie tekstu za pomocą różnych znaków. Aktualnie wspierane są: **pogrubienie** (\\*\\*text\\*\\*), *kursywa* (\\*text\\*, \\_text\\_), __podkreślenie__ (\\_\\_text\\_\\_), ~~przekreślenie~~ (\\~\\~text\\~\\~), i ||spoiler|| (\\|\\|text\\|\\|).",
